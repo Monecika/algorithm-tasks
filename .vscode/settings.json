@@ -1,0 +1,10 @@
+{
+    "background.fullscreen": {
+      "image": "https://i.ytimg.com/vi/RnHIx2THnY0/maxresdefault.jpg", // url of your image
+      "opacity": 0.90, // 0.85 ~ 0.95 recommended
+      "size": "cover" // also css, `cover` to self-adaption (recommended)，or `contain`、`200px 200px`
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "editor.formatOnSave": true
+  }
